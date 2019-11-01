@@ -278,3 +278,8 @@ https://www.linuxfoundation.org/open-source-management/2017/06/building-a-busine
 https://opensource.guide/
 
 https://www.heavybit.com/library/blog/open-source-as-business-strategy-with-segments-peter-reinhardt/
+
+
+## CONCLUSION
+In the end some might say, there is no open source business model, only people using open-source as a development and/or distribution model in order to sell complementary services and products
+https://www.slideshare.net/nearyd/open-source-business-models-75446194
