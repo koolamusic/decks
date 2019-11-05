@@ -3,11 +3,13 @@
 
 
 #### Hacktoberfest 2018
-##### [Open Source Business Model](jsspace-liftoff)
+##### [Open Source Business Model](./oss-business-model)
+[Speaker Deck](https://speakerdeck.com/koolamusic/structuring-a-javascript-project)
 
 
 #### JS Space Lift-off
-##### [Structuring a Javascript Project](./oss-business-model)
+##### [Structuring a Javascript Project](./jsspace-liftoff)
+[Speaker Deck](https://speakerdeck.com/koolamusic/doing-business-the-open-source-way)
 
 
 
