@@ -3,16 +3,13 @@
 
 
 #### Hacktoberfest 2018
-##### Open Source Business Model
-
+##### [Open Source Business Model](jsspace-liftoff)
 
 
 #### JS Space Lift-off
-##### Structuring a Javascript Project
+##### [Structuring a Javascript Project](./oss-business-model)
 
 
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-
